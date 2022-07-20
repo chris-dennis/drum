@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/drum/static/css/main.d4e23c17.css",
+    "main.js": "/drum/static/js/main.351d6287.js",
+    "static/js/787.e27aaab1.chunk.js": "/drum/static/js/787.e27aaab1.chunk.js",
+    "static/media/BASSTT0.WAV": "/drum/static/media/BASSTT0.6a256985cde6a6390b27.WAV",
+    "static/media/808-KICK.WAV": "/drum/static/media/808-KICK.6abd4975751175a59466.WAV",
+    "static/media/TITEHAT(.WAV": "/drum/static/media/TITEHAT(.d5c27c155680062a0601.WAV",
+    "static/media/TITE-KIC.WAV": "/drum/static/media/TITE-KIC.5c6a93d04b0b0deb7107.WAV",
+    "static/media/SOFKIC2(.WAV": "/drum/static/media/SOFKIC2(.a0f3977be7ed96de4599.WAV",
+    "static/media/TITE2SNR.WAV": "/drum/static/media/TITE2SNR.12b34635aa1ab31007ea.WAV",
+    "static/media/CRISPHAT.WAV": "/drum/static/media/CRISPHAT.47eeb056ef1f9237cae3.WAV",
+    "static/media/TITE-SNR.WAV": "/drum/static/media/TITE-SNR.9565dd7d587a3ddfea58.WAV",
+    "static/media/SOF-KIC(.WAV": "/drum/static/media/SOF-KIC(.e9a6966128a9068150b6.WAV",
+    "index.html": "/drum/index.html",
+    "main.d4e23c17.css.map": "/drum/static/css/main.d4e23c17.css.map",
+    "main.351d6287.js.map": "/drum/static/js/main.351d6287.js.map",
+    "787.e27aaab1.chunk.js.map": "/drum/static/js/787.e27aaab1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4e23c17.css",
+    "static/js/main.351d6287.js"
+  ]
+}
